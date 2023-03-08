@@ -1,0 +1,14 @@
+PART 1
+0:00 - How to use Vue (CDN)
+3:36 - Creating a Vue app
+8:58 - Data & templates
+13:34 - Click events
+21:37 - Conditional Rendering
+
+PART 2
+0:00 - Other mouse events
+10:09 - Outputting lists (v-for)
+14:26 - Attribute binding
+19:57 - Dynamic classes
+24:50 - Challenge: toggling favs
+28:57 - Computed properties
